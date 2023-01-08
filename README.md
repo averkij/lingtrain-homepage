@@ -8,6 +8,8 @@ Welcome to Lingtrain! This is a language learning tools and community of languag
 
 ## Lingtrain Alignment Studio
 
+![](https://img.shields.io/github/stars/averkij/a-studio?style=flat)
+
 <img width="400" src="https://habrastorage.org/webt/l8/4y/29/l84y29mmfv4yp343nsn-zmaiif4.jpeg">
 
 Text alignment multitool. Helps tto align texts in different languages. Made as a web application (Python + Vue).
@@ -30,7 +32,7 @@ TBD -->
 
 ## Python library
 
-[![PyPI - PyPi](https://img.shields.io/pypi/v/lingtrain-aligner)](https://pypi.org/project/lingtrain-aligner) [![Downloads](https://static.pepy.tech/personalized-badge/lingtrain-aligner?period=total&units=abbreviation&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/lingtrain-aligner)
+[![PyPI - PyPi](https://img.shields.io/pypi/v/lingtrain-aligner)](https://pypi.org/project/lingtrain-aligner) [![Downloads](https://static.pepy.tech/personalized-badge/lingtrain-aligner?period=total&units=abbreviation&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/lingtrain-aligner) ![](https://img.shields.io/github/stars/averkij/lingtrain-aligner?style=flat)
 
 Alignment Studio is based on `lingtrain-aligner` library. It's a ML powered library for the accurate texts alignment in different languages.
 
