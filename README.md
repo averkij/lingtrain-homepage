@@ -2,4 +2,6 @@
 
 ❤️⚡️🔋💎
 
-Welcome to the Lingtrain! This is a community of language lovers and a bunch of tools for learning, creating multilingual parallel books and NLP research.
+Welcome to Lingtrain! This is a language learning tool and community of language lovers. It's also an open-source project so don't hesitate to join us.
+
+@averkij
