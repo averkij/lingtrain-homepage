@@ -4,7 +4,7 @@
 
 Welcome to Lingtrain! This is a language learning tools and community of language lovers. It's also an open-source project so don't hesitate to join us.
 
-[@averkij](https://github.com/averkij)
+[@averkij](https://t.me/averkij)
 
 ## Lingtrain Alignment Studio
 
