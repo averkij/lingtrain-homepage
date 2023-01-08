@@ -10,23 +10,23 @@ Welcome to Lingtrain! This is a language learning tools and community of languag
 
 ![](https://habrastorage.org/webt/l8/4y/29/l84y29mmfv4yp343nsn-zmaiif4.jpeg)
 
-Multitool for aligning texts in different languages made as a web application (Python + Vue).
+Text alignment multitool. Helps tto align texts in different languages. Made as a web application (Python + Vue).
 
 [View on GitHub](https://github.com/averkij/a-studio)
 
 [Read on Medium](https://medium.com/@averoo/how-to-create-bilingual-books-part-2-lingtrain-alignment-studio-ffa56c9c07a6)
 
-### Multilingual parallel books
+<!-- ### Create books
 
 TBD
 
-### Parallel corpora
+### Extract parallel corpora
 
 TBD
 
-### Export formats
+### Export to different formats
 
-TBD
+TBD -->
 
 ## Python library
 
@@ -47,3 +47,5 @@ pip install lingtrain-aligner
 ## Lingtrain Transformer Book
 
 ![](https://i.imgur.com/BuJ9SQZ.png)
+
+Build a web site with a multilingual parallell book and host it on GitHub Pages with a simple copy and past.
