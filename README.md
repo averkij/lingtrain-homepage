@@ -12,7 +12,7 @@ Welcome to Lingtrain! This is a language learning tools and community of languag
 
 <img width="400" src="https://habrastorage.org/webt/l8/4y/29/l84y29mmfv4yp343nsn-zmaiif4.jpeg">
 
-Text alignment multitool. Helps tto align texts in different languages. Made as a web application (Python + Vue).
+Text alignment multitool. Helps to align texts in different languages. Made as a web application (Python + Vue).
 
 **[View on GitHub](https://github.com/averkij/a-studio)**
 
